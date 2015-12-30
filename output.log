@@ -1,0 +1,299 @@
+Time: 22:13:51  11.02.2015
+
+GET / HTTP/1.1
+Host: sport.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-country "japan"
+-------------------------------------------------------------------------
+Time: 22:14:01  11.02.2015
+
+GET / HTTP/1.1
+Host: nan.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-country "japan"
+-------------------------------------------------------------------------
+Time: 22:14:07  11.02.2015
+
+GET / HTTP/1.1
+Host: 212.74.12.6
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-ip-mask "212.74.12.6/20"
+-------------------------------------------------------------------------
+Time: 22:14:16  11.02.2015
+
+GET / HTTP/1.1
+Host: cnn.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "cnn.com"
+-------------------------------------------------------------------------
+Time: 22:16:51  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "www.walla.co.il"
+-------------------------------------------------------------------------
+Time: 22:43:00  11.02.2015
+
+GET /online/nrg/include/img/favicon.ico HTTP/1.1
+Host: www.nrg.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:00  11.02.2015
+
+GET /online/nrg/include/img/favicon.ico HTTP/1.1
+Host: www.nrg.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:07  11.02.2015
+
+GET / HTTP/1.1
+Host: www.sport5.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:13  11.02.2015
+
+GET / HTTP/1.1
+Host: nba.lemons.se
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:30  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:32  11.02.2015
+
+GET / HTTP/1.1
+Host: 10tv.nana10.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:37  11.02.2015
+
+GET /faces5.js HTTP/1.1
+Host: analyticsfaces.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:42  11.02.2015
+
+GET / HTTP/1.1
+Host: hackidc.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:43:45  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:44:49  11.02.2015
+
+GET / HTTP/1.1
+Host: www.sport5.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site ""
+-------------------------------------------------------------------------
+Time: 22:51:39  11.02.2015
+
+GET / HTTP/1.1
+Host: sport.co.uk
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-country "united kingdom"
+-------------------------------------------------------------------------
+Time: 22:52:06  11.02.2015
+
+GET / HTTP/1.1
+Host: idc.ac.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-country "israel"
+-------------------------------------------------------------------------
+Time: 22:57:05  11.02.2015
+
+GET / HTTP/1.1
+Host: fox.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "fox.com"
+-------------------------------------------------------------------------
+Time: 23:07:06  11.02.2015
+
+GET / HTTP/1.1
+Host: cnn.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "cnn.com"
+-------------------------------------------------------------------------
+Time: 23:09:58  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "www.walla.co.il"
+-------------------------------------------------------------------------
+Time: 23:10:28  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "www.walla.co.il"
+-------------------------------------------------------------------------
+Time: 23:10:59  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "www.walla.co.il"
+-------------------------------------------------------------------------
+Time: 23:30:56  11.02.2015
+
+GET / HTTP/1.1
+Host: www.walla.co.il
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+blocked-site "www.walla.co.il"
+-------------------------------------------------------------------------
